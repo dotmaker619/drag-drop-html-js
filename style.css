@@ -1,0 +1,26 @@
+.drawalDiv {
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  background-color: blue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#myDiv {
+  z-index: 999;
+}
+
+#left_box {
+  margin-top: 30px;
+}
+
+.dropzone {
+  width: 200px;
+  height: 200px;
+}
+
+.red_box {
+  background-color: red;
+}
